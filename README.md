@@ -2,7 +2,7 @@
 
 I am Sajjad Nazari, passionate about front-end development. Currently, I am focusing on honing my skills with ReactJS and Tailwind CSS. I am excited to delve deeper into the world of technology and pursue higher education opportunities.
 
-![<sajjadnazaridev>'s Stats](https://github-readme-stats.vercel.app/api?username=<sajjadnazaridev>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<sajjadnazaridev>'s Stats](https://github-readme-stats.vercel.app/api?username=sajjadnazaridev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
