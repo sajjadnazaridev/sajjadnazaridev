@@ -18,14 +18,14 @@ I am Sajjad Nazari, passionate about front-end development. Currently, I am focu
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,sass,tailwind,vite,ps,figma)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## 🌻 Currently Exploring
 
-🚀 Advancing my React skills to an advanced level.
-🎨 Learning Figma for UI/UX design.
-🔧 Mastering advanced Git techniques for better version control.
-💼 Creating professional portfolio projects based on my experiences.
+- 🚀 Advancing my React skills to an advanced level.
+- 🎨 Learning Figma for UI/UX design.
+- 🔧 Mastering advanced Git techniques for better version control.
+- 💼 Creating professional portfolio projects based on my experiences.
 
-## 📬 Get in Touch
+## 📨 Get in Touch
 
 - Connect with me on [Telegram](https://t.me/sajee_Launcher)
 - Connect with me on [Linkedin](https://www.linkedin.com/in/seyed-sajjad-nazari)
