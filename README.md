@@ -16,7 +16,7 @@ I am Sajjad Nazari, passionate about front-end development. Currently, I am focu
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,sass,tailwind,vite,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,react,sass,tailwind,vite,figma)](https://skillicons.dev)
 
 ## 🌻 Currently Exploring
 
