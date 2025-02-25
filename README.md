@@ -3,7 +3,7 @@
 I am Sajjad Nazari, passionate about front-end development. Currently, I am focusing on honing my skills with ReactJS and Tailwind CSS. I am excited to delve deeper into the world of technology and pursue higher education opportunities.
 
 <p align="center">
-<a href="https://github.com/maxtsh">
+<a href="https://github.com/sajjadnazaridev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajjadnazaridev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajjadnazaridev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
